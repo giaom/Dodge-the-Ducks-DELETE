@@ -2,4 +2,4 @@
 CSS 385: Expanding on dodge the creeps 
 
 https://github.com/giaom/DodgeDuck
-Sorry, new to copying files into github. Please use the above link instead. Thank you!
+Sorry, new to copying files into github. Please use this attached link instead. Thank you!
