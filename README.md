@@ -7,8 +7,7 @@ This text file contains game code information, changelog, and assignment writeup
 Used by the "[Your first 2D game](https://docs.godotengine.org/en/latest/getting_started/first_2d_game/index.html)" tutorial.
 
 Assets:
-- Original duck: [https://mokeonn.itch.io/duck-in-a-library](https://mokeonn.itch.io/duck-in-a-library)
-- Audio, tutorial: [https://docs.godotengine.org/en/latest/getting_started/first_2d_game/index.html](https://docs.godotengine.org/en/latest/getting_started/first_2d_game/index.html)
+- Audio and tutorial: [https://docs.godotengine.org/en/latest/getting_started/first_2d_game/index.html](https://docs.godotengine.org/en/latest/getting_started/first_2d_game/index.html)
 
 ## Changelog (from original.)
 
