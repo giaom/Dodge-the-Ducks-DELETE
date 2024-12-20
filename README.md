@@ -1,3 +1,6 @@
+# This repository is incomplete and will be deteled. Please refer to the following link intead:
+https://github.com/giaom/Dodge-the-Ducks
+
 # README
 # UWB CSS 385 A Au 24: Introduction To Game Development. Sumitted Dec 11th 2024.
 
