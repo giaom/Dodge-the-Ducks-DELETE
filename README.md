@@ -1,7 +1,7 @@
 # README
 # UWB CSS 385 A Au 24: Introduction To Game Development. Sumitted Dec 11th 2024.
 
-This text file contains game code information, changelog, and assignment writeups.
+The following incldes: game code information, changelog, and assignment writeups.
 
 ## Dodge the Creeps 2D assets
 Used by the "[Your first 2D game](https://docs.godotengine.org/en/latest/getting_started/first_2d_game/index.html)" tutorial.
