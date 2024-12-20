@@ -10,24 +10,17 @@ Assets:
 - Original duck: [https://mokeonn.itch.io/duck-in-a-library](https://mokeonn.itch.io/duck-in-a-library)
 - Audio, tutorial: [https://docs.godotengine.org/en/latest/getting_started/first_2d_game/index.html](https://docs.godotengine.org/en/latest/getting_started/first_2d_game/index.html)
 
-## Changelog
+## Changelog (from original.)
 
 ### Other:
 - Changed README.txt
 - Added notes and comments to scripts and methods
-
-### PROGRAM 1 - Hello World: change to splash screen
-- Added text "Go!" for one second after "Get Ready!" splash screen
-  - Starting line 24 in `hud.gd`.
-
-### PROGRAM 2 - Basic Interaction Model: Change in player movement
-- When space bar is pressed down, player's movement speed increases, while mobs' decreases.
-- Speed reverts to original when space bar is released.
-  - Changes starting from line 42, AND from line 52, in `player.gd`
-  - Changes starting from line 8, AND from line 22, in `Mob.gd`
-
-### Added READMENOT text file:
-This text file contains changes unused, irrelevant to, or not useful to the class assignments, but personal notes or things I may want to go back to.
+- Added READMENOT text file: This text file contains changes unused, irrelevant to, or not useful to the class assignments, but personal notes or things I may want to go back to.
+- Uploaded and used different art assets.
+- PROGRAM 1 - Hello World: change to splash screen: Added text "Go!" for one second after "Get Ready!" splash screen, Starting line 24 in `hud.gd`.
+- PROGRAM 2 - Basic Interaction Model: Change in player movement. When space bar is pressed down, player's movement speed increases, while mobs' decreases. Speed reverts to original when space bar is released. Changes starting from line 42, AND from line 52, in `player.gd`and starting from line 8, AND from line 22, in `Mob.gd`
+- Saved and show highscore.
+- Added info screen to home screen.
 
 ## Write Ups
 
